@@ -1,4 +1,5 @@
-NUMBERS are INPUTED
-INPUTED NUMBERS are SQUARED
-SUM the SQUARED NUMBERS
-Print the SUM
+number_1 = Input a number
+number_2 = Input second number
+number_3 = Input a third number
+sum_of_squared_numbers = Square_number_1 + Square_number_2 + Square_number_3
+PRINT sum_of_squared_numbers
